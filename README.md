@@ -13,13 +13,13 @@
   <img
     width="49%"
     src="https://github-stats-extended.vercel.app/api?username=passionate-coder26&show_icons=true&theme=tokyonight&include_all_commits=true&show=reviews,discussions_started,prs_merged,prs_merged_percentage"
-    alt="Jaideep's GitHub statistics"
+    alt="Abhiram's GitHub statistics"
   />
 
   <img
     width="49%"
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=passionate-coder26&layout=compact&theme=tokyonight&langs_count=10"
-    alt="Jaideep's most-used languages"
+    alt="Abhiram's most-used languages"
   />
 </p>
 
@@ -28,7 +28,7 @@
 <p align="center">
   <img
     src="https://streak-stats.demolab.com/?user=passionate-coder26&theme=tokyonight&timezone=Asia/Kolkata"
-    alt="Jaideep's contribution streak"
+    alt="Abhiram's contribution streak"
   />
 </p>
 
@@ -37,7 +37,7 @@
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=passionate-coder26&theme=tokyo-night&hide_border=true"
-    alt="Jaideep's contribution activity graph"
+    alt="Abhiram's contribution activity graph"
   />
 </p>
 
