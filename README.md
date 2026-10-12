@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on building end-to-end projects in Machine Learning and Full-Stack Development<br>I’m looking to collaborate on End-to-end machine learning projects and open-source tools related to data science and backend development.<br>I’m looking for help with Optimizing ML models, deploying them at scale, and designing production-ready backend architectures.<br>I’m currently learning DSA through LeetCode and applying concepts by building web development projects.
+I’m currently working on building end-to-end projects in Machine Learning and Full-Stack Development.<br>I’m looking to collaborate on End-to-end machine learning projects and open-source tools related to data science and backend development.<br>I’m looking for help with Optimizing ML models, deploying them at scale, and designing production-ready backend architectures.<br>I’m currently learning DSA through LeetCode and applying concepts by building web development projects.
 
 
 ## 🌐 Socials:
